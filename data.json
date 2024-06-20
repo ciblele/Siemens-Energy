@@ -1,0 +1,9 @@
+[
+    {"equipment_id": 1, "temperature": 25.5, "timestamp": "2024-06-20T12:00:00Z"},
+    {"equipment_id": 2, "temperature": 26.0, "timestamp": "2024-06-20T12:01:00Z"},
+    {"equipment_id": 1, "temperature": 24.8, "timestamp": "2024-06-20T12:02:00Z"},
+    {"equipment_id": 3, "temperature": 23.9, "timestamp": "2024-06-20T12:03:00Z"},
+    {"equipment_id": 2, "temperature": 27.2, "timestamp": "2024-06-20T12:04:00Z"},
+    {"equipment_id": 1, "temperature": 25.1, "timestamp": "2024-06-20T12:05:00Z"},
+    {"equipment_id": 3, "temperature": 26.5, "timestamp": "2024-06-20T12:06:00Z"}
+]
