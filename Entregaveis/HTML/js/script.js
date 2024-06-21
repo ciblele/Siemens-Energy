@@ -2,7 +2,7 @@ $(document).ready(function() {
     // Initialize variables
     var ctx = document.getElementById('graficoDados').getContext('2d');
     var grafico;
-    var dataUrl = 'https://raw.githubusercontent.com/ciblele/json/main/data.json';
+    var dataUrl = 'https://raw.githubusercontent.com/ciblele/Siemens-Energy/main/Entregaveis/dados_1718915601.json';
     var categorias = [];
 
     // Fetch JSON data
